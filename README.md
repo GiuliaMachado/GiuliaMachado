@@ -6,9 +6,6 @@
 - 😁 Fun Fact: I love cooking candies, but I am a disaster in the kitchen.
   
   <div align="center">
-  <a href="https://github.com/GiuliaMachado">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=giuliamachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamachado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
