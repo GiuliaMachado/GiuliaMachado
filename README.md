@@ -1,31 +1,16 @@
-### Olá, Eu sou a Giulia Machado 👋
+## 💠 Bem vindo(a), Meu nome é Giulia Machado!
+### 💠Tenho 20 anos e uma grande paixão por tecnologia.
+## 🪷Sobre Mim
+Sou uma pessoa curiosa, apaixonada por tecnologia, flexível e com foco em resultados. Faço Ciência da Computação na UFABC e atualmente participo de um projeto de Iniciação Científica na área de bioinformática. Meus principais conhecimentos são: Pacote Office, Canvas, ferramentas de gerenciamento de projetos (Trello, AzureBoards), métodos ágeis. Com relação a linguagens de programação, tenho conhecimentos intermediários em Java, python, c++. No meu tempo livre gosto de fazer projetos em React Native, treinar na academia e jogar.
 
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)	![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
+## Principais Linguagens
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GiuliaMachado&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-- 🌱 I'm studying Java and SQL. 
-- 😄 Pronouns: ela/dela she/her
-- 😁 Fun Fact: I love cooking candies, but I am a disaster in the kitchen.
-  
-  <div align="center">
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="45" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="40" width="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="45" align="center"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="45" align="center" />
-</div>
-  
-  ##
-  
-  <div>
-    <a href="https://instagram.com/giulia.macz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/giulia-machado999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/AngellShiny" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-target="_blank"></a>
-    <a href="https://music.youtube.com/channel/UCiaU_nvTrtSTIeHWj4fkHng" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a> 
-  </div> 
-   
+## Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuliaMachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+##Contato
+Para me conhecer mais, acesse minhas redes sociais!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/giulia-machado999/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/giulia.macz/)
 
