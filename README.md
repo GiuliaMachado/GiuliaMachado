@@ -1,5 +1,4 @@
 ## 💠 Bem vindo(a), Meu nome é Giulia Machado!
-### 💠Tenho 20 anos e uma grande paixão por tecnologia.
 ## 🪷Sobre Mim
 Sou uma pessoa curiosa, apaixonada por tecnologia, flexível e com foco em resultados. Faço Ciência da Computação na UFABC e atualmente participo de um projeto de Iniciação Científica na área de bioinformática. Meus principais conhecimentos são: Pacote Office, Canvas, ferramentas de gerenciamento de projetos (Trello, AzureBoards), métodos ágeis. Com relação a linguagens de programação, tenho conhecimentos intermediários em Java, python, c++. No meu tempo livre gosto de fazer projetos em React Native, treinar na academia e jogar.
 
